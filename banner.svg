@@ -9,7 +9,7 @@
   <rect width="100%" height="100%" fill="#121b0c"/>
   
   <!-- Imagen con clip path -->
-  <image xlink:href="./lauren_banner_00065047.jpg" x="300" y="10" width="1065" height="361" clip-path="url(#imageclip)"/>
+  <image xlink:href="https://raw.githubusercontent.com/r-flavio/r-flavio/master/lauren_banner_00065047.jpg" x="300" y="10" width="1065" height="361" clip-path="url(#imageclip)"/>
   
   <!-- Bordes -->
   <rect x="0" y="0" width="100%" height="100%" fill="none" stroke="black" stroke-width="20"/>
