@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="lauren_banner_2.jpg" alt="lauren mayberry banner" width="100%" /> 
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Lauren_Mayberry">
+    <img src="lauren_banner_2.jpg" alt="lauren mayberry banner" width="100%" />
+  </a> 
 </p>
 <div align="center">
   <p>
