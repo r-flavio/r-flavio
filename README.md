@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/92f71f2d17e6c4fb863eb47d3abbcb66/967dc8abdd082832-8e/s1280x1920/ee2251d417b6464d1a221394cbf686fb64b0ae64.jpg" alt="lauren mayberry banner" width="550px" /> 
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Lauren_Mayberry">
+    <img src="lauren_banner_2.jpg" alt="lauren mayberry banner" width="100%" />
+  </a> 
 </p>
 <div align="center">
   <p>
